@@ -1,0 +1,1 @@
+print("Xin chao, chuc ban mot ngay tot lanh!")
